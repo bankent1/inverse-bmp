@@ -7,7 +7,7 @@ Usage: ```./inverse [--debug] [img1.bmp] [img2.bmp] . . .```
   
 The ```--debug``` option will print out the header information for the file.  
   
-The program will create the negative of the image and write to the file INV_<filename>.
+The program will create the negative of the image and write to the file INV_\<filename\>.
   
 *Note:* This program is only supports normal 24-bit colors (RGB pixels).
 
